@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="42px" viewBox="0 0 37 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>ic-hd</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="ic-hd" transform="translate(1.625000, 1.312500)" stroke="#2F44F7" stroke-width="1.5">
+            <rect id="Rectangle" x="0" y="0" width="34.125" height="39.375"></rect>
+            <line x1="21" y1="9.1875" x2="26.25" y2="9.1875" id="Path"></line>
+            <line x1="21" y1="15.75" x2="26.25" y2="15.75" id="Path"></line>
+            <line x1="7.875" y1="22.3125" x2="26.25" y2="22.3125" id="Path"></line>
+            <line x1="7.875" y1="28.875" x2="26.25" y2="28.875" id="Path"></line>
+            <rect id="Rectangle" x="7.875" y="9.1875" width="7.875" height="6.5625"></rect>
+        </g>
+    </g>
+</svg>

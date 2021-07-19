@@ -1,0 +1,295 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.app {
+    position: relative;
+}
+
+.app::after {
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 490px;
+    z-index: -1;
+    background: url(./banner.png) left top / contain no-repeat, rgb(1, 0, 81);
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    border-bottom: .5px solid rgba(204, 204, 204, 0.527);
+    padding: 1rem 0;
+}
+
+.header > img {
+    width: 120px;
+}
+
+.main {
+    padding: 2rem .5rem;
+}
+
+.main .slogan {
+    text-align: center;
+    color: #fff;
+}
+
+.slogan > .text-1 {
+    font-size: 1.5rem;
+    padding: 1rem 0;
+}
+
+.slogan > .text-2 {
+    font-size: 1.1rem;
+    opacity: .7;
+    text-shadow: 0 0 1px #fff;
+}
+
+.main > .form {
+    margin: 0 auto;
+    background-color: #fff;
+    min-height: 200px;
+    border-radius: .7rem;
+    padding: 2.3rem 2rem;
+    margin-top: 3rem;
+    box-shadow: rgb(0 0 0 / 15%) 0px 2px 35px 0px, rgb(0 0 0 / 10%) 0px 1px 0px 0px;
+}
+
+.form-registration > .title {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.input-group {
+    margin-top: 1.3rem;
+    position: relative;
+}
+
+.label {
+    font-size: 1rem;
+    position: absolute;
+    top: 50%;
+    left: 1rem;
+    transform: translate(0, -50%);
+    background-color: #fff;
+    padding: 0 .5rem;
+}
+
+.label.active {
+    font-size: .8rem;
+    position: absolute;
+    top: 0;
+    left: 1rem;
+    transform: translate(0, -50%);
+}
+
+.input-group input {
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: .4rem;
+    padding: 1.2rem 1rem;
+    width: 100%;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.input-group input[type='submit'] {
+    border: none;
+    background-color: blue;
+    color: #fff;
+}
+
+.input-group .btn-sub{
+    border: none;
+    background-color: blue;
+    color: #fff;
+}
+
+.input-group .btn-sub:hover{
+    cursor: pointer;
+    opacity: .8;
+}
+
+#money {
+    color: blue;
+}
+
+/* section 2 */
+
+.list-cards {
+    margin-top: 3rem;
+}
+
+.list-cards > .title {
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 600;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+}
+
+.card-title {
+    margin-bottom: 3rem;
+}
+
+.list-cards .item-card {
+    position: relative;
+    border: 1px solid #ccc;
+    border-radius: .3rem;
+    height: 100%;
+    padding: 4rem 2rem;
+}
+
+.item-card > .icon {
+    position: absolute;
+    top: 0;
+    left: 2rem;
+    transform: translate(0, -50%);
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+
+.item-card > .icon img {
+    width: 50%;
+}
+    
+.item-card .title {
+    font-weight: 600;
+    font-size: 1.1rem;
+    opacity: .8;
+}
+
+.item-card .text {
+    line-height: 1.6rem;
+    margin-top: 1rem;
+    font-size: .9rem;
+}
+
+/* section-3 */
+.section-3 {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 5rem 0;
+    margin-top: 4rem;
+}
+
+.demo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.demo img {
+    width: 80%;
+}
+
+.concept {
+    padding: 2rem;
+}
+
+.concept > .title-1 {
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.concept > .title-2 {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.concept > .list-item {
+    margin-top: 2rem;
+}
+
+.concept > .list-item .icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.concept > .list-item .icon img {
+    width: 50px;
+}
+
+.concept > .list-item .title {
+    font-weight: 600;
+    font-size: 1.1rem;
+} 
+
+.concept > .list-item .text {
+    line-height: 1.6rem;
+    font-size: 1rem;
+} 
+
+/* footer */
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.logo {
+    width: 120px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+footer .slogan {
+    padding: 1rem;
+    text-align: center;
+} 
+
+.links {
+    margin-top: .5rem;
+}
+
+.item-link {
+    text-decoration: none;
+    color: #000;
+    margin: 0 1rem;
+}
+
+.item-link:hover {
+    color: rgb(81, 32, 255);
+}
+
+.bottom-footer {
+    width: 70%;
+    font-size: .9rem;
+    color: #1e1e1e;
+    border-top: 1px rgb(0, 195, 255) solid;
+    text-align: center;
+    padding: 1.7rem 0;
+    margin-top: 2.5rem;
+}

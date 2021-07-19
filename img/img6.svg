@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>ic-kq</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="ic-kq" transform="translate(1.312500, 1.312500)" stroke="#2F44F7" stroke-width="1.5">
+            <polygon id="Path" points="19.6875 9.9710625 22.5264375 15.72375 28.875 16.6464375 24.28125 21.123375 25.365375 27.447 19.6875 24.4610625 14.009625 27.447 15.09375 21.123375 10.5 16.6464375 16.8485625 15.72375"></polygon>
+            <circle id="Oval" cx="19.6875" cy="19.6875" r="19.6875"></circle>
+            <line x1="19.6875" y1="34.125" x2="19.6875" y2="31.5" id="Path"></line>
+            <line x1="33.418875" y1="24.1486875" x2="30.9225" y2="23.3375625" id="Path"></line>
+            <line x1="28.174125" y1="8.0075625" x2="26.630625" y2="10.1311875" id="Path"></line>
+            <line x1="11.200875" y1="8.0075625" x2="12.744375" y2="10.1311875" id="Path"></line>
+            <line x1="5.956125" y1="24.1486875" x2="8.4525" y2="23.3375625" id="Path"></line>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>ic-id</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="ic-id" transform="translate(1.000000, 1.312500)" stroke="#2F44F7" stroke-width="1.5">
+            <line x1="24.9375" y1="22.3125" x2="34.125" y2="22.3125" id="Path"></line>
+            <line x1="24.9375" y1="28.875" x2="34.125" y2="28.875" id="Path"></line>
+            <circle id="Oval" cx="13.125" cy="21" r="2.625"></circle>
+            <path d="M19.6875,32.8125 L6.5625,32.8125 L6.5625,32.8125 C6.5625,29.9131875 8.9131875,27.5625 11.8125,27.5625 L14.4375,27.5625 C17.3368125,27.5625 19.6875,29.9131875 19.6875,32.8125 L19.6875,32.8125 Z" id="Path"></path>
+            <polyline id="Path" points="23.625 9.1875 39.375 9.1875 39.375 39.375 0 39.375 0 9.1875 15.75 9.1875"></polyline>
+            <path d="M23.625,13.125 L15.75,13.125 L15.75,3.9375 C15.75,1.7626875 17.5126875,0 19.6875,0 L19.6875,0 C21.8623125,0 23.625,1.7626875 23.625,3.9375 L23.625,13.125 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
